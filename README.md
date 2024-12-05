@@ -30,6 +30,9 @@ This project implements a hybrid recommendation system combining three approache
 
 ![image](https://github.com/user-attachments/assets/708865a1-e14a-4100-98cc-60b4728a8091)
 
+# Dataset
+
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 # Features
 
