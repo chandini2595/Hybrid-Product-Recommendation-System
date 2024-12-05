@@ -12,6 +12,24 @@ This project implements a hybrid recommendation system combining three approache
 - Collaborative Filtering using SVD (Singular Value Decomposition)
 - Content-Based Filtering using TF-IDF
 - Hybrid approach using Random Forest to combine both methods
+<img width="593" alt="image" src="https://github.com/user-attachments/assets/ab350625-6196-4263-a254-a620a35cbae9">
+
+# High Level Architecture 
+
+![image](https://github.com/user-attachments/assets/fda999a1-745c-423e-82d2-98ad7171ebd0)
+
+# Dataflow diagram
+
+![image](https://github.com/user-attachments/assets/07ebf81c-7f64-4696-bce6-f963c97fe612)
+
+# Sequence diagram
+
+![image](https://github.com/user-attachments/assets/d272256d-3827-48c1-b7e5-64faeeb625e3)
+
+# Component level design
+
+![image](https://github.com/user-attachments/assets/708865a1-e14a-4100-98cc-60b4728a8091)
+
 
 # Features
 
@@ -78,7 +96,7 @@ I'll help you add the KDD (Knowledge Discovery in Databases) steps we incorporat
 - **Metrics Used**
   - RMSE (Root Mean Square Error)
 - **Validation Strategies**
-  - Cross-validation
+  - Cross-validation (nfold)
   - Train-test split
   - Temporal validation
 - **Performance Analysis**
@@ -95,5 +113,7 @@ I'll help you add the KDD (Knowledge Discovery in Databases) steps we incorporat
   - User behavior patterns
   - Product relationships
   - Model effectiveness analysis
+
+
 
 
