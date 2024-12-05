@@ -14,22 +14,6 @@ This project implements a hybrid recommendation system combining three approache
 - Hybrid approach using Random Forest to combine both methods
 <img width="593" alt="image" src="https://github.com/user-attachments/assets/ab350625-6196-4263-a254-a620a35cbae9">
 
-# High Level Architecture 
-
-<img width="569" alt="image" src="https://github.com/user-attachments/assets/788b5fd9-ffd3-4fd9-bb4b-705fd4186a0e">
-
-# Dataflow diagram
-
-![image](https://github.com/user-attachments/assets/07ebf81c-7f64-4696-bce6-f963c97fe612)
-
-# Sequence diagram
-
-![image](https://github.com/user-attachments/assets/d272256d-3827-48c1-b7e5-64faeeb625e3)
-
-# Component level design
-
-![image](https://github.com/user-attachments/assets/708865a1-e14a-4100-98cc-60b4728a8091)
-
 # Dataset
 
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
