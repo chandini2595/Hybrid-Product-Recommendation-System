@@ -16,6 +16,12 @@ This project implements a hybrid recommendation system combining three approache
 
 # Dataset
 
+While there have been notable datasets for e-commerce product recommendations, this dataset stands out by offering comprehensive details on customer orders, product metadata, and user reviews. The dataset includes data for 100,000 orders across various product categories, sourced from a large-scale online marketplace. Each order captures product details, customer information, and reviews, providing a rich foundation for analyzing purchasing behavior and building recommendation systems.
+
+The dataset features unique IDs for both products and customers. Product IDs span tens of thousands of items across categories such as electronics, health, and home decor, while customer IDs represent individual users from diverse geographical regions. Each order includes metadata such as product name length, description length, number of photos, and review scores, with ratings ranging from 1 to 5. On average, products have a substantial number of reviews, though some lack detailed comments.
+
+Additional features include timestamps for various stages of the order lifecycle (purchase, approval, delivery), customer demographics (city, state, zip code prefix), and review attributes (comment title, message). While some review fields have missing data, the dataset remains robust for exploring user-item interactions and modeling personalized recommendations.
+
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 # Features
