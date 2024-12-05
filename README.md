@@ -16,7 +16,7 @@ This project implements a hybrid recommendation system combining three approache
 
 # High Level Architecture 
 
-![image](https://github.com/user-attachments/assets/fda999a1-745c-423e-82d2-98ad7171ebd0)
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/788b5fd9-ffd3-4fd9-bb4b-705fd4186a0e">
 
 # Dataflow diagram
 
