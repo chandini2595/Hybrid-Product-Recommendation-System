@@ -1,4 +1,4 @@
-# Hybrid-Product-Recommendation-System
+# PersonaRank: A Product Scoring Engine
 
 A scalable hybrid recommendation system that combines Singular Value Decomposition (SVD), TF-IDF, and Random Forest to provide personalized product recommendations.
 
